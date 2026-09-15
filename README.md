@@ -2,8 +2,6 @@
 
 **Task:** Recognize human emotions (happy, sad, angry, etc.) from speech audio.
 
-CodeAlpha Machine Learning Internship — Task 2
-
 ## 📌 Overview
 
 This project classifies emotions from speech using **MFCC (Mel-Frequency
